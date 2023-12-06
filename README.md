@@ -1,4 +1,4 @@
-# EDA_Diwali_Sales_Analysis
+# EDA Diwali Sales Analysis
 
 ## Analyze Diwali sales data to improve customer experience and sales
 
